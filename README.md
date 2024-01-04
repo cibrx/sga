@@ -50,12 +50,7 @@
 - Şifrelenmiş Metni Oluşturma:
         - Tüm harfler bu kaydırma işlemine tabi tutularak şifrelenmiş metin oluşturulur.
 
-Örnek:
-
-    Metin: "HELLO"
-    Anahtar: 3
-
-Şifreleme adımları:
+Örneğin 'HELLO' metnini 3 anahtarıyla şifrelediğimizde şifreleme adımları şu şekilde olacaktır:
 
     - 'H' harfi 3 birim kaydırılır ve 'K' olur.
     - 'E' harfi 3 birim kaydırılır ve 'H' olur.
