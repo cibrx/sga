@@ -102,4 +102,5 @@ Veritabanları üç kısımda incelenir:
 
 # SGA - Uygulama Kısmı
 
-### SSH ağ sıkılaştırılması []https://github.com/LegendMan46/sga/blob/main/README.md
+### SSH ağ sıkılaştırılması
+[link](https://github.com/LegendMan46/sga/blob/main/README.md)
