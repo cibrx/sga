@@ -66,10 +66,14 @@
 
 RSA, yaygın olarak kullanılan bir asimetrik şifreleme algoritmasıdır. Bu algoritmada biri açık diğeri ise özel olmak üzere 2 anahtar bulunur ve şifrelemelerde bunlardan yararlanılır.
 ### Hashleme ile Şifrleme arasidaki fark nedir?
-> Hashleme algoritmaları geri döndürülemez bir output oluşturur. -- Şifreleme algoritmalari ise geri döndürülerbilir algoritmalar ile oluşturulur.
+> Şifreleme ve hashleme arasındaki ana fark, birinin geri döndürülebilir olması, diğerinin ise gerçekleştirildikten sonra geri alınamamasıdır.
 
-## DB 
-### Veritabani Nedir?
+
+Şifreleme, bir veriye veya metne erişilebilmesi için bir şifrenin gerekli kılınmasıdır. Böylelikle veriye sadece erişmesi gereken kişiler erişir. Böylelikle verilerin bütünlüğü ve güvenliği sağlanmış olur.
+
+Hashleme ise benzer bir amaçla yapılır, verilerin bütünlüğünü sağlar. Ancak hashleme tek yönlüdür, hashlenen bir veri tekrardan orijinal haline çevrilemez. Böylece veriler güvenli şekilde tutulmuş ve erişimlerden korunmuş olur.
+
+### Veritabanı Nedir?
 > Veritabanı, düzenli bir şekilde bilgi depolayan ve erişimi sağlayan bir sistemdir. Tablolar, satırlar, sütunlar gibi temel öğeler içerir. İş ve uygulama alanlarında büyük miktarlardaki verileri organize etmek ve yönetmek için kullanılır.
 ### SQL Nedir?
 > SQL (Structured Query Language), veritabanlarıyla iletişim kurmak için kullanılan bir dilidir. Veritabanı oluşturma, tablo işlemleri, veri ekleme, güncelleme, silme, sorgulama ve veri sıralama gibi temel görevleri gerçekleştirmek için kullanılır.
