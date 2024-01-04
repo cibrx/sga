@@ -16,16 +16,16 @@
 - Erişim Kontrolü ve Kullanıcı Yönetimi:
   Gereksiz yetkilendirmeleri önlemek ve kullanıcıların kontrolünü sıklıkla gerçekleştirmek, ağımızın güvenliğinde önemli rol oynar.    
 ### Ağın güvenliğini sağlamak için hangi cihazlar kullanılmalıdır?
-- Firewall: Ağ trafiğini kontrol eder.
-- IPS (Sızma Önleme Sistemi): Zararlı aktiviteleri algılar ve önler.
-- Antivirus ve Antimalware: Zararlı yazılımları engeller.
-- VPN Cihazları: Güvenli iletişim için kullanılır.
-- WAF (Web Application Firewall): Web uygulamalarını korur.
-- Proxy Sunucuları: İnternet trafiğini filtreler.
-- Switch ve Router Güvenlik Ayarları: Güvenlik politikalarını uygular.
-- Ağ İzleme ve Loglama Araçları: Anormal aktiviteleri izler.
-- Authentication Servers: Kullanıcı kimlik doğrulama süreçlerini yönetir.
-- NAC (Network Access Control) Cihazları: Ağ erişimini kontrol eder.
+    - Firewall: Ağ trafiğini kontrol eder.
+    - IPS (Sızma Önleme Sistemi): Zararlı aktiviteleri algılar ve önler.
+    - Antivirus ve Antimalware: Zararlı yazılımları engeller.
+    - VPN Cihazları: Güvenli iletişim için kullanılır.
+    - WAF (Web Application Firewall): Web uygulamalarını korur.
+    - Proxy Sunucuları: İnternet trafiğini filtreler.
+    - Switch ve Router Güvenlik Ayarları: Güvenlik politikalarını uygular.
+    - Ağ İzleme ve Loglama Araçları: Anormal aktiviteleri izler.
+    - Authentication Servers: Kullanıcı kimlik doğrulama süreçlerini yönetir.
+    - NAC (Network Access Control) Cihazları: Ağ erişimini kontrol eder.
 
 ### Ağ cihazlarının fiziksel güvenkiği nasıl sağlanır?
 >     Güvenli Konum:
@@ -81,3 +81,8 @@
 ## DB 
 ### Veritabani Nedir?
 > Veritabanı, düzenli bir şekilde bilgi depolayan ve erişimi sağlayan bir sistemdir. Tablolar, satırlar, sütunlar gibi temel öğeler içerir. İş ve uygulama alanlarında büyük miktarlardaki verileri organize etmek ve yönetmek için kullanılır.
+### SQL Nedir?
+> SQL (Structured Query Language), veritabanlarıyla iletişim kurmak için kullanılan bir dilidir. Veritabanı oluşturma, tablo işlemleri, veri ekleme, güncelleme, silme, sorgulama ve veri sıralama gibi temel görevleri gerçekleştirmek için kullanılır.
+### Yapılandırılmış Veri Nedir?
+> Yapılandırılmış veri, belirli bir düzen içinde organize edilmiş ve genellikle veritabanlarında depolanan veriyi temsil eder. Veritabanları, yapılandırılmış veriyi tablolar, sütunlar ve satırlar şeklinde düzenleyerek bilgiyi düzenli bir şekilde saklamak ve erişmek için kullanılır. Bu düzen, veri üzerinde etkili sorgulama, güncelleme ve analiz işlemleri gerçekleştirmeyi sağlar. Yapılandırılmış veri, bilgi yönetiminde düzeni ve tutarlılığı artırmak için önemlidir.
+### 
