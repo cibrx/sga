@@ -31,23 +31,13 @@
 - NAC (Network Access Control) Cihazları: Ağ erişimini kontrol eder.
 
 ### Ağ cihazlarının fiziksel güvenkiği nasıl sağlanır?
->     Güvenli Konum:
-        Ağ cihazları güvenli bir yerde, yetkisiz erişimden uzakta bulunmalıdır.
-
-    Erişim Kontrolleri:
-        Kapılar, kilitler ve erişim kontrol sistemleri kullanarak sadece yetkili kişilerin girebilmesini sağlayın.
-
-    Güvenlik Kameraları ve Alarm Sistemleri:
-        Fiziksel güvenlik durumunu izlemek için güvenlik kameraları ve alarm sistemleri kullanın.
-
-    Çevresel Kontroller:
-        Sıcaklık, nem gibi çevresel faktörleri izleyerek cihazları koruyun.
-
-    Kilitli Kabinetler:
-        Ağ ekipmanlarını kilitli kabinetler içinde saklayarak fiziksel erişimi sınırlayın.
-
-    Eğitim ve Bilgilendirme:
-        Personeli güvenlik prosedürleri konusunda eğitin ve bilgilendirin.
+<super>Ağ güvenliğinin yazılımsal olarak güvenli tutulmasının yanında, cihazların fiziksel olarak korunması da oldukça önemlidir.</super>
+- Güvenli Konum: Ağ cihazları güvenli bir yerde, yetkisiz erişimden uzakta bulunmalıdır.
+- Erişim Kontrolleri: Kapılar, kilitler ve erişim kontrol sistemleri kullanarak sadece yetkili kişilerin girebilmesini sağlayın.
+- Güvenlik Kameraları ve Alarm Sistemleri: Fiziksel güvenlik durumunu izlemek için güvenlik kameraları ve alarm sistemleri kullanın.
+- Çevresel Kontroller: Sıcaklık, nem gibi çevresel faktörleri izleyerek cihazları koruyun.
+- Kilitli Kabinetler: Ağ ekipmanlarını kilitli kabinetler içinde saklayarak fiziksel erişimi sınırlayın.
+- Eğitim ve Bilgilendirme: Personeli güvenlik prosedürleri konusunda eğitin ve bilgilendirin.
 ### Sezar Şifreleme nasil çalışır bir örnek veriniz 
 > Sezar şifrelemesi, basit bir şifreleme yöntemidir ve adını Roma İmparatoru Sezar'dan almıştır. Temel çalışma prensibi, bir metni belirli bir sayıda yer değiştirme ile şifrelemektir. İşte Sezar şifrelemesinin temel çalışma adımları:
 
