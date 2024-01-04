@@ -98,13 +98,13 @@ ve Non-relational Database olarak üçe ayrılır:
 - İlişkisel Olmayan Veritabanları (NRDBMS - NoSQL): Veriler arasında ilişki kurulması yerine verilerin direkt olarak depolanması amacıyla geliştirilmiş veritabanlarıdır. Sorgu dilleri yerine direkt olarak içerilen verilerle sorgulamalar yapılır. Farklı ve değişken veri tipleri için uyumlulardır ve geliştiricilere kolaylık sağlarlar. Buna rağmen büyük verilerde sorgulamaların zorluğu ve yetersizliği, kullanıcılar için sorun teşkil edebilir.
 
 
-*SQL'e neden gerek duyulmuştur?*
+❓ *SQL'e neden gerek duyulmuştur?*
 
 
 Verilerin ayrı ayrı depolanmasını ve dolayısıyla sorguların zorlaşmasını önlemek yerine, verilerdeki alanları(field) ilişkilendirilerek bu aşamayı kolaylaştırmak amaçlanmıştır. Veri yapılandırılmış hale gelir.
 
 
-*NoSQL'e neden gerek duyulmuştur?*
+❓ *NoSQL'e neden gerek duyulmuştur?*
 
 
 Büyük verilerde yapılan sorgulamalar, NoSQL veritabanlarında daha hızlı gerçekleştirmektedir. Ayrıca veriler bazen esnek bir mimaride olabilir, haliyle tüm veriler her zaman sabit yapıda ve özelliklerde olmayacaktır. Bu tarz durumlarda NoSQL kullanılır. Bir avantajları da NoSQL veritabanlarının herhangi bir standardı olmamasıdır, yani SQL olmayan her veritabanı NoSQL olarak sınıflandırılabilir. Seçeneklerin çoğunun sharding yani işlem parçacıklandırma desteklemesi, bu tür veritabanlarının daha optimize ve hızlı çalışmasını da sağlamaktadır.
