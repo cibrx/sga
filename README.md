@@ -67,7 +67,7 @@
 <strong>Şifrelenmiş metin: "KHOOB"</strong>
 
 ### SSH Yapılandırılmasında key oluşturulurken hangi algoritma kullanılır?
-> SSH, kullanıcıların sunucularını veya cihazlarını internet üzerinden kontrol etmelerine olanak sağlayan bir protokoldür. SSH bağlantılarında güvenliği sağlayan bir şifreleme tekniği bulunur. Bu şifreleme *RSA* algoritması kullanılarak gerçekleştirilir.
+> Secure Shell, kullanıcıların sunucularını veya cihazlarını internet üzerinden kontrol etmelerine olanak sağlayan bir protokoldür. SSH bağlantılarında güvenliği sağlayan bir şifreleme tekniği bulunur. Bu şifreleme *RSA* algoritması kullanılarak gerçekleştirilir.
 
 
 RSA, yaygın olarak kullanılan bir asimetrik şifreleme algoritmasıdır. Bu algoritmada biri açık diğeri ise özel olmak üzere 2 anahtar bulunur ve şifrelemelerde bunlardan yararlanılır.
@@ -75,7 +75,7 @@ RSA, yaygın olarak kullanılan bir asimetrik şifreleme algoritmasıdır. Bu al
 > Şifreleme ve hashleme arasındaki ana fark, birinin geri döndürülebilir olması, diğerinin ise gerçekleştirildikten sonra geri alınamamasıdır.
 
 
-Şifreleme, bir veriye veya metne erişilebilmesi için bir şifrenin gerekli kılınmasıdır. Böylelikle veriye sadece erişmesi gereken kişiler erişir. Böylelikle verilerin bütünlüğü ve güvenliği sağlanmış olur.
+Şifreleme, bir veriye veya metne erişilebilmesi için bir şifrenin gerekli kılınmasıdır. Böylelikle veriye sadece erişmesi gereken kişiler erişir. Verilerin bütünlüğü ve güvenliği bu şekilde sağlanmış olur.
 
 Hashleme ise benzer bir amaçla yapılır, verilerin bütünlüğünü sağlar. Ancak hashleme tek yönlüdür, hashlenen bir veri tekrardan orijinal haline çevrilemez. Böylece veriler güvenli şekilde tutulmuş ve erişimlerden korunmuş olur.
 
