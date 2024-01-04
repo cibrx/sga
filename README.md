@@ -17,8 +17,8 @@
   Ağ sistemimizde kullandığımız yazılımların güncel tutulması, açıklar ve zaafiyetler açısından bizi korumalı tutacaktır.
 - Erişim Kontrolü ve Kullanıcı Yönetimi:
   Gereksiz yetkilendirmeleri önlemek ve kullanıcıların kontrolünü sıklıkla gerçekleştirmek, ağımızın güvenliğinde önemli rol oynar.
-- Hostname domainname gibi degerlerin değiştirlmesi.
-  SSH gibi servisler secret keyler olusturuken bu degerleri referans alır.
+- Varsayılan kullanıcı adları ve domainlerin değiştirilmesi: 
+  SSH gibi servisler şifrelemelerini gerçekleştirirken bu değerleri referans aldığından, varsayılan haliyle bırakmamamız önemlidir.
      
 ### Ağın güvenliğini sağlamak için hangi cihazlar kullanılmalıdır?
 <super>Ağ güvenliğinin sağlanması için çeşitli cihazların kullanılması tavsiye edilir:</super>
@@ -84,8 +84,9 @@ Veritabanları depoladıkları verileri ilişkilendirmek, hızlı sorgular gerç
 
 Veritabanları üç kısımda incelenir: 
 
-- İlişkisel Veritabanları (RDBMS - SQL): Bu tür veritabanlarında her bir verinin içerdiği özellikler ilişkilendirilerek saklanır. Sorgular gerçekleştirilirken de bu durumdan yararlanılır. İlişkisel veritabanlarında satırlar her farklı verileri, sütunlar ise her bir verinin içerdiği ayrı alanları temsil eder.
-- Nesne Odaklı Veritabanları(OODBMS): Veritabanlarındaki verilerin, programlama dillerindeki nesne(object) kavramıyla temsil edildiği sistemlere nesne odaklı veritabanı adı verilir. Nesne odaklı veritabanlarına çok rastlanmasa da diğer veritabanı çeşitlerini benzer şekilde kullanmak için kullan
+- İlişkisel Veritabanları (RDBMS - SQL): Bu tür veritabanlarında her bir verinin içerdiği özellikler ilişkilendirilerek saklanır. Sorgular gerçekleştirilirken de bu durumdan yararlanılır. İlişkisel veritabanlarında satırlar her farklı verileri, sütunlar ise her bir verinin içerdiği ayrı alanları temsil eder. Ayrıca ilişkisel veritabanlarında sorgulama gerçekleştirmek için geliştirilmiş diller(query language) vardır.
+- Nesne Odaklı Veritabanları(OODBMS): Veritabanlarındaki verilerin, programlama dillerindeki nesne(object) kavramıyla temsil edildiği sistemlere nesne odaklı veritabanı adı verilir. Nesne odaklı veritabanlarına çok rastlanmasa da diğer veritabanı çeşitlerini benzer şekilde kullanmak için geliştirilmiş yazılımlar sıklıkla kullanılmaktadır.
+- İlişkisel Olmayan Veritabanları (NRDBMS - NoSQL): Veriler arasında ilişki kurulması yerine verilerin direkt olarak depolanması amacıyla geliştirilmiş veritabanlarıdır. Sorgu dilleri yerine direkt olarak içerilen verilerle sorgulamalar yapılır. Farklı ve değişken veri tipleri için uyumlulardır ve geliştiricilere kolaylık sağlarlar. Buna rağmen büyük verilerde sorgulamaların zorluğu ve yetersizliği, kullanıcılar için sorun teşkil edebilir. 
 
 ### SQL Nedir?
 > SQL (Structured Query Language), veritabanlarıyla iletişim kurmak için kullanılan bir dilidir. Veritabanı oluşturma, tablo işlemleri, veri ekleme, güncelleme, silme, sorgulama ve veri sıralama gibi temel görevleri gerçekleştirmek için kullanılır.
