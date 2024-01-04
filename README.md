@@ -52,11 +52,11 @@
 
 Örneğin 'HELLO' metnini 3 anahtarıyla şifrelediğimizde şifreleme adımları şu şekilde olacaktır:
 
-    - 'H' harfi 3 birim kaydırılır ve 'K' olur.
-    - 'E' harfi 3 birim kaydırılır ve 'H' olur.
-    - 'L' harfi 3 birim kaydırılır ve 'O' olur.
-    - 'L' harfi 3 birim kaydırılır ve 'O' olur.
-    - 'O' harfi 3 birim kaydırılır ve 'R' olur.
+- 'H' harfi 3 birim kaydırılır ve 'K' olur.
+- 'E' harfi 3 birim kaydırılır ve 'H' olur.
+- 'L' harfi 3 birim kaydırılır ve 'O' olur.
+- 'L' harfi 3 birim kaydırılır ve 'O' olur.
+- 'O' harfi 3 birim kaydırılır ve 'R' olur.
 
 <strong>Şifrelenmiş metin: "KHOOB"</strong>
 
