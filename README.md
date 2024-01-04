@@ -74,7 +74,16 @@ RSA, yaygın olarak kullanılan bir asimetrik şifreleme algoritmasıdır. Bu al
 Hashleme ise benzer bir amaçla yapılır, verilerin bütünlüğünü sağlar. Ancak hashleme tek yönlüdür, hashlenen bir veri tekrardan orijinal haline çevrilemez. Böylece veriler güvenli şekilde tutulmuş ve erişimlerden korunmuş olur.
 
 ### Veritabanı Nedir?
-> Veritabanı, düzenli bir şekilde bilgi depolayan ve erişimi sağlayan bir sistemdir. Tablolar, satırlar, sütunlar gibi temel öğeler içerir. İş ve uygulama alanlarında büyük miktarlardaki verileri organize etmek ve yönetmek için kullanılır.
+> Veritabanları; çeşitli türden verilerin depolanmasını ve gerektiğinde erişilmesi işlemini kolaylaştırmak için geliştirilmiş sistemlerdir.
+
+
+Veritabanları depoladıkları verileri ilişkilendirmek, hızlı sorgular gerçekleştirmek gibi çeşitli amaçlarda sürekli geliştirilmektedir. Günümüzde oldukça fazla çeşidi bulunan veritabanları, bazı avantajlar ve özelliklerle öne çıkarlar. 
+
+Veritabanları üç kısımda incelenir: 
+
+- İlişkisel Veritabanları (RDBMS - SQL): Bu tür veritabanlarında her bir verinin içerdiği özellikler ilişkilendirilerek saklanır. Sorgular gerçekleştirilirken de bu durumdan yararlanılır. İlişkisel veritabanlarında satırlar her farklı verileri, sütunlar ise her bir verinin içerdiği ayrı alanları temsil eder.
+- Nesne Odaklı Veritabanları(OODBMS): Veritabanlarındaki verilerin, programlama dillerindeki nesne(object) kavramıyla temsil edildiği sistemlere nesne odaklı veritabanı adı verilir. Nesne odaklı veritabanlarına çok rastlanmasa da diğer veritabanı çeşitlerini benzer şekilde kullanmak için kullan
+
 ### SQL Nedir?
 > SQL (Structured Query Language), veritabanlarıyla iletişim kurmak için kullanılan bir dilidir. Veritabanı oluşturma, tablo işlemleri, veri ekleme, güncelleme, silme, sorgulama ve veri sıralama gibi temel görevleri gerçekleştirmek için kullanılır.
 ### Yapılandırılmış Veri Nedir?
