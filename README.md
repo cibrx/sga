@@ -79,7 +79,7 @@ RSA, yaygın olarak kullanılan bir asimetrik şifreleme algoritmasıdır. Bu al
 Hashleme ise benzer bir amaçla yapılır, verilerin bütünlüğünü sağlar. Ancak hashleme tek yönlüdür, hashlenen bir veri tekrardan orijinal haline çevrilemez. Böylece veriler güvenli şekilde tutulmuş ve erişimlerden korunmuş olur.
 
 ### Veritabanı Nedir?
-> Veritabanları, çeşitli türden verilerin depolanmasını ve gerektiğinde erişilmesi işlemini kolaylaştırmak için geliştirilmiş sistemlerdir.
+> Veritabanları; çeşitli türden verilerin depolanmasını ve gerektiğinde erişilmesi işlemini kolaylaştırmak için geliştirilmiş sistemlerdir.
 
 
 Veritabanları depoladıkları verileri ilişkilendirmek, hızlı sorgular gerçekleştirmek gibi çeşitli amaçlarda sürekli geliştirilmektedir. Günümüzde oldukça fazla çeşidi bulunan veritabanları, bazı avantajlar ve özelliklerle öne çıkarlar. 
@@ -102,7 +102,23 @@ Veritabanları üç kısımda incelenir:
 <strong>Yapılandırılmamış Veri</strong>
 > Bu konuda herhangi bir uygulama yerine getirilmemiş, saf şekilde veriyi depolama şekline ise yapılandırılmamış veri adı verilir.
 
-# SGA - Uygulama Kısmı
+# SGA cheatsheet - Sözel Kısım
 
 ### SSH ağ sıkılaştırılması
-[link](https://github.com/LegendMan46/sga/blob/main/README.md)
+> [ilgili web sitesi](https://computernetworking747640215.wordpress.com/2018/07/05/secure-shell-ssh-configuration-on-a-switch-and-router-in-packet-tracer/)
+
+### Banner Motd
+> Router>en <br>
+Router#conf t <br> 
+Router(config)#banner motd #Your_banner# <br>
+Router(config)#do write <br>
+
+### username-secret(for more security) and username-password
+> Router(config)#username <your_username> secret <your_secret> <br>
+> Router(config)#username <your_username> password <your_password> <br>
+
+### SSH yapılandırma 
+> [ilgili web sitesi](https://computernetworking747640215.wordpress.com/2018/07/05/secure-shell-ssh-configuration-on-a-switch-and-router-in-packet-tracer/)
+
+### SSH version 2 
+> Router(config)#ip ssh version 2
