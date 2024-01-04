@@ -1,7 +1,7 @@
 # SGA
 
 ### Ağ cihazlarının sıkılaştırılması nedir?
-> Ağ cihazlarının sıkılaştırılması, potansiyel problemlerin ve zaafiyetlerin ortaya çıkmasını hedefleyerek güvenlik risklerinin ortadan kaldırılması aşamasıdır.
+> Ağ cihazlarının sıkılaştırılması, potansiyel problemlerin ve zaafiyetlerin ortaya çıkmasını hedefleyerek güvenlik risklerinin ortadan kaldırılması aşamasıdır.<br>
 <super>Bu durumun sağlanması için alınabilecek çeşitli önlemler vardır:</super>
 - Gereksiz Portları Kapatma:
   Kullanılmayan portları kapatmak, potansiyel güvenlik risklerini azaltır.
