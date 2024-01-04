@@ -1,23 +1,20 @@
 # SiberGAtolyesi
 
 ### Ağ cihazlarinin sıkılaştırılması nedir?
-> Gereksiz Portları Kapatma:
-        Kullanılmayan portları kapatmak, potansiyel güvenlik risklerini azaltır.
-
-    Telnet ve Benzeri Servisleri Kapatma:
-        Güvenlik açısından zayıf protokoller ve servisleri, örneğin Telnet'i kapatmak.
-
-    Güçlü Şifre Politikaları:
-        Güçlü şifre gereksinimleri ve düzenli şifre değişiklikleriyle güvenliği artırmak.
-
-    Firewall Kuralları İnceleme:
-        Firewall kurallarını gözden geçirerek istenmeyen trafiği engellemek.
-
-    Güncel Yazılımları Kullanma:
-        Ağ cihazlarının yazılımlarını ve firmware'ini düzenli olarak güncelleyerek güvenlik açıklarını kapatma.
-
-    Erişim Kontrolleri:
-        Kullanıcı erişimini sıkı bir şekilde kontrol etmek ve gereksiz yetkilendirmeleri önlemek.        
+<super>Ağ cihazlarının sıkılaştırılması, potansiyel problemlerin ve zaafiyetlerin ortaya çıkmasını hedefleyerek güvenlik risklerinin ortadan kaldırılması aşamasıdır.</super>
+<super>Bu durumun sağlanması için alınabilecek çeşitli önlemler vardır</super>
+- Gereksiz Portları Kapatma:
+  Kullanılmayan portları kapatmak, potansiyel güvenlik risklerini azaltır.
+- Telnet benzeri Servisleri Kapatma:
+  Güvenlik açısından sıkıntılı protokol ve servislerin kapatılması ağ güvenliğini arttırmak açısından önemli etki sağlayacaktır.
+- Güçlü Şifre Politikaları:
+  Güçlü ve uzun şifrelerin kullanılmasının ağ sistemimizin güvenliğine katkısı oldukça büyük olabilir.
+- Firewall Kuralları:
+  Güvenlik Duvarının kurallarının incelenmesi, gözden geçirilmesi ve gerekirse değişimler yapılması gereklidir.
+- Güncel Yazılımlar:
+  Ağ sistemimizde kullandığımız yazılımların güncel tutulması, açıklar ve zaafiyetler açısından bizi korumalı tutacaktır.
+- Erişim Kontrolü ve Kullanıcı Yönetimi:
+  Gereksiz yetkilendirmeleri önlemek ve kullanıcıların kontrolünü sıklıkla gerçekleştirmek, ağımızın güvenliğinde önemli rol oynar.    
 ### Ağın güvenliğini sağlamak için hangi cihazlar kullanılmalıdır?
 >  Firewall: Ağ trafiğini kontrol eder.
     IPS (Sızma Önleme Sistemi): Zararlı aktiviteleri algılar ve önler.
