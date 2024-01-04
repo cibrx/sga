@@ -99,3 +99,7 @@ Veritabanları üç kısımda incelenir:
 
 <strong>Yapılandırılmamış Veri</strong>
 > Bu konuda herhangi bir uygulama yerine getirilmemiş veri depolama şekline ise yapılandırılmamış veri adı verilir.
+
+# SGA - Uygulama Kısmı
+
+### SSH ağ sıkılaştırılması []https://github.com/LegendMan46/sga/blob/main/README.md
