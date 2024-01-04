@@ -100,7 +100,7 @@ Veritabanları üç kısımda incelenir:
 
 
 <strong>Yapılandırılmamış Veri</strong>
-> Bu konuda herhangi bir uygulama yerine getirilmemiş veri depolama şekline ise yapılandırılmamış veri adı verilir.
+> Bu konuda herhangi bir uygulama yerine getirilmemiş, saf şekilde veriyi depolama şekline ise yapılandırılmamış veri adı verilir.
 
 # SGA - Uygulama Kısmı
 
