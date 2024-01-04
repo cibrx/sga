@@ -1,3 +1,4 @@
 # SiberGAtolyesi
 
-> Ağ cihazlarinin sıkılaştırılması nedir?
+### Ağ cihazlarinin sıkılaştırılması nedir?
+> ceva
