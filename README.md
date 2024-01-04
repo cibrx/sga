@@ -79,7 +79,7 @@ RSA, yaygın olarak kullanılan bir asimetrik şifreleme algoritmasıdır. Bu al
 Hashleme ise benzer bir amaçla yapılır, verilerin bütünlüğünü sağlar. Ancak hashleme tek yönlüdür, hashlenen bir veri tekrardan orijinal haline çevrilemez. Böylece veriler güvenli şekilde tutulmuş ve erişimlerden korunmuş olur.
 
 ### Veritabanı Nedir?
-> Veritabanları; çeşitli türden verilerin depolanmasını ve gerektiğinde erişilmesi işlemini kolaylaştırmak için geliştirilmiş sistemlerdir.
+> Veritabanları, çeşitli türden verilerin depolanmasını ve gerektiğinde erişilmesi işlemini kolaylaştırmak için geliştirilmiş sistemlerdir.
 
 
 Veritabanları depoladıkları verileri ilişkilendirmek, hızlı sorgular gerçekleştirmek gibi çeşitli amaçlarda sürekli geliştirilmektedir. Günümüzde oldukça fazla çeşidi bulunan veritabanları, bazı avantajlar ve özelliklerle öne çıkarlar. 
