@@ -89,7 +89,10 @@ Veritabanları üç kısımda incelenir:
 - İlişkisel Olmayan Veritabanları (NRDBMS - NoSQL): Veriler arasında ilişki kurulması yerine verilerin direkt olarak depolanması amacıyla geliştirilmiş veritabanlarıdır. Sorgu dilleri yerine direkt olarak içerilen verilerle sorgulamalar yapılır. Farklı ve değişken veri tipleri için uyumlulardır ve geliştiricilere kolaylık sağlarlar. Buna rağmen büyük verilerde sorgulamaların zorluğu ve yetersizliği, kullanıcılar için sorun teşkil edebilir. 
 
 ### SQL Nedir?
-> SQL (Structured Query Language), veritabanlarıyla iletişim kurmak için kullanılan bir dilidir. Veritabanı oluşturma, tablo işlemleri, veri ekleme, güncelleme, silme, sorgulama ve veri sıralama gibi temel görevleri gerçekleştirmek için kullanılır.
-### Yapılandırılmış Veri Nedir?
+> Structured Query Language(SQL), ilişkisel veritabanlarıyla etkileşimde bulunmak için oluşturulmuş bir dildir. Veritabanındaki tablo işlemleri, verilerin eklenmesi/silinmesi/düzenlenmesi, sorgulama gerçekleştirilerek verilere erişilmesi SQL aracılığıyla sağlanır.
+### Verilerin Yapılandırılması:
+
+<strong>Yapılandırılmış Veri</strong>
 > Yapılandırılmış veri, belirli bir düzen içinde organize edilmiş ve genellikle veritabanlarında depolanan veriyi temsil eder. Veritabanları, yapılandırılmış veriyi tablolar, sütunlar ve satırlar şeklinde düzenleyerek bilgiyi düzenli bir şekilde saklamak ve erişmek için kullanılır. Bu düzen, veri üzerinde etkili sorgulama, güncelleme ve analiz işlemleri gerçekleştirmeyi sağlar. Yapılandırılmış veri, bilgi yönetiminde düzeni ve tutarlılığı artırmak için önemlidir.
-### 
+<strong>Yapılandırılmamış Veri</strong>
+> Bu konuda herhangi bir uygulama yerine getirilmemiş veri depolama şekline ise yapılandırılmamış veri adı verilir.
