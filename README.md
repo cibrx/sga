@@ -39,16 +39,16 @@
 - Kilitli Kabinetler: Ağ ekipmanlarını kilitli kabinetler içinde saklayarak fiziksel erişimi sınırlayın.
 - Eğitim ve Bilgilendirme: Personeli güvenlik prosedürleri konusunda eğitin ve bilgilendirin.
 ### Sezar Şifreleme nasil çalışır bir örnek veriniz 
-> Sezar şifrelemesi, basit bir şifreleme yöntemidir ve adını Roma İmparatoru Sezar'dan almıştır. Temel çalışma prensibi, bir metni belirli bir sayıda yer değiştirme ile şifrelemektir. İşte Sezar şifrelemesinin temel çalışma adımları:
+> Sezar şifrelemesi, basit bir şifreleme yöntemidir ve adını Roma İmparatoru Sezar'dan almıştır. Temel çalışma prensibi, bir metni belirli bir sayıda yer değiştirme ile şifrelemektir.
+<super>Sezar şifrelemesinin temel çalışma adımları:</super>
+- Anahtar Belirleme:
+        - Sezar şifrelemesinde kullanılan anahtar, kaç yer kaydırma yapılacağını belirler. Bu anahtar genellikle bir sayıdır.
 
-    Anahtar Belirleme:
-        Sezar şifrelemesinde kullanılan anahtar, kaç yer kaydırma yapılacağını belirler. Bu anahtar genellikle bir sayıdır.
+- Metni Şifreleme:
+        - Her harfi belirlenen anahtar kadar kaydırarak şifreleme işlemi gerçekleştirilir. Örneğin, anahtar 3 ise 'A' harfi 'D' haline gelir.
 
-    Metni Şifreleme:
-        Her harfi belirlenen anahtar kadar kaydırarak şifreleme işlemi gerçekleştirilir. Örneğin, anahtar 3 ise 'A' harfi 'D' haline gelir.
-
-    Şifrelenmiş Metni Oluşturma:
-        Tüm harfler bu kaydırma işlemine tabi tutularak şifrelenmiş metin oluşturulur.
+- Şifrelenmiş Metni Oluşturma:
+        - Tüm harfler bu kaydırma işlemine tabi tutularak şifrelenmiş metin oluşturulur.
 
 Örnek:
 
@@ -57,13 +57,13 @@
 
 Şifreleme adımları:
 
-    'H' harfi 3 birim kaydırılır ve 'K' olur.
-    'E' harfi 3 birim kaydırılır ve 'H' olur.
-    'L' harfi 3 birim kaydırılır ve 'O' olur.
-    'L' harfi 3 birim kaydırılır ve 'O' olur.
-    'O' harfi 3 birim kaydırılır ve 'R' olur.
+    - 'H' harfi 3 birim kaydırılır ve 'K' olur.
+    - 'E' harfi 3 birim kaydırılır ve 'H' olur.
+    - 'L' harfi 3 birim kaydırılır ve 'O' olur.
+    - 'L' harfi 3 birim kaydırılır ve 'O' olur.
+    - 'O' harfi 3 birim kaydırılır ve 'R' olur.
 
-Şifrelenmiş metin: "KHOOB"
+<strong>Şifrelenmiş metin: "KHOOB"</strong>
 
 ### SSH yapılandirilmasinda bulunan key üretme işleminde hangi tür algoritma kullanilir?
 > RSA şifreleme algoritmasi
