@@ -88,7 +88,10 @@ Hashleme ise benzer bir amaçla yapılır, verilerin bütünlüğünü sağlar. 
 
 Veritabanları depoladıkları verileri ilişkilendirmek, hızlı sorgular gerçekleştirmek gibi çeşitli amaçlarda sürekli geliştirilmektedir. Günümüzde oldukça fazla çeşidi bulunan veritabanları, bazı avantajlar ve özelliklerle öne çıkarlar. 
 
-Veritabanları üç kısımda incelenir: 
+Veritabanları;
+Relational Database, 
+Object Oriented Database
+ve Non-relational Database olarak üçe ayrılır: 
 
 - İlişkisel Veritabanları (RDBMS - SQL): Bu tür veritabanlarında her bir verinin içerdiği özellikler ilişkilendirilerek saklanır. Sorgular gerçekleştirilirken de bu durumdan yararlanılır. İlişkisel veritabanlarında satırlar her farklı verileri, sütunlar ise her bir verinin içerdiği ayrı alanları temsil eder. Ayrıca ilişkisel veritabanlarında sorgulama gerçekleştirmek için geliştirilmiş diller(query language) vardır.
 - Nesne Odaklı Veritabanları(OODBMS): Veritabanlarındaki verilerin, programlama dillerindeki nesne(object) kavramıyla temsil edildiği sistemlere nesne odaklı veritabanı adı verilir. Nesne odaklı veritabanlarına çok rastlanmasa da diğer veritabanı çeşitlerini benzer şekilde kullanmak için geliştirilmiş yazılımlar sıklıkla kullanılmaktadır.
