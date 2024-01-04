@@ -94,5 +94,8 @@ Veritabanları üç kısımda incelenir:
 
 <strong>Yapılandırılmış Veri</strong>
 > Yapılandırılmış veri, belirli bir düzen içinde organize edilmiş ve genellikle veritabanlarında depolanan veriyi temsil eder. Veritabanları, yapılandırılmış veriyi tablolar, sütunlar ve satırlar şeklinde düzenleyerek bilgiyi düzenli bir şekilde saklamak ve erişmek için kullanılır. Bu düzen, veri üzerinde etkili sorgulama, güncelleme ve analiz işlemleri gerçekleştirmeyi sağlar. Yapılandırılmış veri, bilgi yönetiminde düzeni ve tutarlılığı artırmak için önemlidir.
+
+
+
 <strong>Yapılandırılmamış Veri</strong>
 > Bu konuda herhangi bir uygulama yerine getirilmemiş veri depolama şekline ise yapılandırılmamış veri adı verilir.
