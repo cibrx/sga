@@ -79,4 +79,5 @@
 > Hashleme algoritmaları geri döndürülemez bir output oluşturur. -- Şifreleme algoritmalari ise geri döndürülerbilir algoritmalar ile oluşturulur.
 
 ## DB 
-### Veritabani 
+### Veritabani Nedir?
+> Veritabanı, düzenli bir şekilde bilgi depolayan ve erişimi sağlayan bir sistemdir. Tablolar, satırlar, sütunlar gibi temel öğeler içerir. İş ve uygulama alanlarında büyük miktarlardaki verileri organize etmek ve yönetmek için kullanılır.
