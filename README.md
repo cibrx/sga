@@ -1,8 +1,8 @@
-# SiberGAtolyesi
+# SGA
 
 ### Ağ cihazlarının sıkılaştırılması nedir?
 > Ağ cihazlarının sıkılaştırılması, potansiyel problemlerin ve zaafiyetlerin ortaya çıkmasını hedefleyerek güvenlik risklerinin ortadan kaldırılması aşamasıdır.
-<super>Bu durumun sağlanması için alınabilecek çeşitli önlemler vardır</super>
+<super>Bu durumun sağlanması için alınabilecek çeşitli önlemler vardır:</super>
 - Gereksiz Portları Kapatma:
   Kullanılmayan portları kapatmak, potansiyel güvenlik risklerini azaltır.
 - Telnet benzeri Servisleri Kapatma:
@@ -16,16 +16,17 @@
 - Erişim Kontrolü ve Kullanıcı Yönetimi:
   Gereksiz yetkilendirmeleri önlemek ve kullanıcıların kontrolünü sıklıkla gerçekleştirmek, ağımızın güvenliğinde önemli rol oynar.    
 ### Ağın güvenliğini sağlamak için hangi cihazlar kullanılmalıdır?
-    - Firewall: Ağ trafiğini kontrol eder.
-    - IPS (Sızma Önleme Sistemi): Zararlı aktiviteleri algılar ve önler.
-    - Antivirus ve Antimalware: Zararlı yazılımları engeller.
-    - VPN Cihazları: Güvenli iletişim için kullanılır.
-    - WAF (Web Application Firewall): Web uygulamalarını korur.
-    - Proxy Sunucuları: İnternet trafiğini filtreler.
-    - Switch ve Router Güvenlik Ayarları: Güvenlik politikalarını uygular.
-    - Ağ İzleme ve Loglama Araçları: Anormal aktiviteleri izler.
-    - Authentication Servers: Kullanıcı kimlik doğrulama süreçlerini yönetir.
-    - NAC (Network Access Control) Cihazları: Ağ erişimini kontrol eder.
+<super>Ağ güvenliğinin sağlanması için çeşitli cihazların kullanılması tavsiye edilir:</super>
+- Firewall: Ağ trafiğini kontrol eder.
+- IPS (Sızma Önleme Sistemi): Zararlı aktiviteleri algılar ve önler.
+- Antivirus ve Antimalware: Zararlı yazılımları engeller.
+- VPN Cihazları: Güvenli iletişim için kullanılır.
+- WAF (Web Application Firewall): Web uygulamalarını korur.
+- Proxy Sunucuları: İnternet trafiğini filtreler.
+- Switch ve Router Güvenlik Ayarları: Güvenlik politikalarını uygular.
+- Ağ İzleme ve Loglama Araçları: Anormal aktiviteleri izler.
+- Authentication Servers: Kullanıcı kimlik doğrulama süreçlerini yönetir.
+- NAC (Network Access Control) Cihazları: Ağ erişimini kontrol eder.
 
 ### Ağ cihazlarının fiziksel güvenkiği nasıl sağlanır?
 >     Güvenli Konum:
