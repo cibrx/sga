@@ -16,16 +16,16 @@
 - Erişim Kontrolü ve Kullanıcı Yönetimi:
   Gereksiz yetkilendirmeleri önlemek ve kullanıcıların kontrolünü sıklıkla gerçekleştirmek, ağımızın güvenliğinde önemli rol oynar.    
 ### Ağın güvenliğini sağlamak için hangi cihazlar kullanılmalıdır?
-    - Firewall: Ağ trafiğini kontrol eder.
-    - IPS (Sızma Önleme Sistemi): Zararlı aktiviteleri algılar ve önler.
-    - Antivirus ve Antimalware: Zararlı yazılımları engeller.
-    - VPN Cihazları: Güvenli iletişim için kullanılır.
-    - WAF (Web Application Firewall): Web uygulamalarını korur.
-    - Proxy Sunucuları: İnternet trafiğini filtreler.
-    - Switch ve Router Güvenlik Ayarları: Güvenlik politikalarını uygular.
-    - Ağ İzleme ve Loglama Araçları: Anormal aktiviteleri izler.
-    - Authentication Servers: Kullanıcı kimlik doğrulama süreçlerini yönetir.
-    - NAC (Network Access Control) Cihazları: Ağ erişimini kontrol eder.
+- Firewall: Ağ trafiğini kontrol eder.
+- IPS (Sızma Önleme Sistemi): Zararlı aktiviteleri algılar ve önler.
+- Antivirus ve Antimalware: Zararlı yazılımları engeller.
+- VPN Cihazları: Güvenli iletişim için kullanılır.
+- WAF (Web Application Firewall): Web uygulamalarını korur.
+- Proxy Sunucuları: İnternet trafiğini filtreler.
+- Switch ve Router Güvenlik Ayarları: Güvenlik politikalarını uygular.
+- Ağ İzleme ve Loglama Araçları: Anormal aktiviteleri izler.
+- Authentication Servers: Kullanıcı kimlik doğrulama süreçlerini yönetir.
+- NAC (Network Access Control) Cihazları: Ağ erişimini kontrol eder.
 
 ### Ağ cihazlarının fiziksel güvenkiği nasıl sağlanır?
 >     Güvenli Konum:
