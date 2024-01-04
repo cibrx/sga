@@ -109,10 +109,9 @@ Veritabanları üç kısımda incelenir:
 > [ilgili web sitesi](https://computernetworking747640215.wordpress.com/2018/07/05/secure-shell-ssh-configuration-on-a-switch-and-router-in-packet-tracer/)
 
 ### Banner Motd
-> Router>en <br>
-Router#conf t <br> 
+> Router>enable <br>
+Router#configure terminal<br> 
 Router(config)#banner motd #Your_banner# <br>
-Router(config)#do write <br>
 
 ### username-secret(for more security) and username-password
 > Router(config)#username <your_username> secret <your_secret> <br>
