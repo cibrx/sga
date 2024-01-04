@@ -20,7 +20,7 @@
 - Varsayılan kullanıcı adları ve domainlerin değiştirilmesi: 
   SSH gibi servisler şifrelemelerini gerçekleştirirken bu değerleri referans aldığından, varsayılan haliyle bırakmamamız önemlidir.
 - Alt ağlara bölme:
-  Ağların alt ağlar olacak şekilde daha küçük parçalara bölünmesi erişimi kısıtlayacağından güvenliğe katkı sağlayacaktır.
+  Ağların alt ağlar olacak şekilde daha küçük parçalara bölünmesi erişimi kısıtlayacağından güvenliğe katkı sağlayacaktır. Benzer amaçla kullanılan VLAN da bu konuda tercih edilebilir.
      
 ### Ağın güvenliğini sağlamak için hangi cihazlar kullanılmalıdır?
 <super>Ağ güvenliğinin sağlanması için çeşitli cihazların kullanılması tavsiye edilir:</super>
