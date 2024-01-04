@@ -1,4 +1,5 @@
 # SGA cheatsheet
+## Sözel Kısım
 
 ### Ağ cihazlarının sıkılaştırılması nedir?
 > Ağ cihazlarının sıkılaştırılması, potansiyel problemlerin ve zaafiyetlerin ortaya çıkmasını hedefleyerek güvenlik risklerinin ortadan kaldırılması aşamasıdır.<br>
@@ -102,7 +103,7 @@ Veritabanları üç kısımda incelenir:
 <strong>Yapılandırılmamış Veri</strong>
 > Bu konuda herhangi bir uygulama yerine getirilmemiş, saf şekilde veriyi depolama şekline ise yapılandırılmamış veri adı verilir.
 
-# SGA cheatsheet - Uygulama Kısım
+## Uygulama Kısım
 
 ### SSH ağ sıkılaştırılması
 > [ilgili web sitesi](https://computernetworking747640215.wordpress.com/2018/07/05/secure-shell-ssh-configuration-on-a-switch-and-router-in-packet-tracer/)
