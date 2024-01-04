@@ -46,6 +46,9 @@
 - Eğitim ve Bilgilendirme: Personeli güvenlik prosedürleri konusunda eğitin ve bilgilendirin.
 ### Sezar Şifreleme Nedir?
 > Sezar şifrelemesi, basit bir şifreleme yöntemidir ve adını Roma İmparatoru Sezar'dan almıştır. Temel çalışma prensibi, bir metni belirli bir sayıda yer değiştirme ile şifrelemektir.
+
+
+
 <super>Sezar şifrelemesinin temel çalışma adımları:</super>
 - Anahtar Belirleme:
         - Sezar şifrelemesinde kullanılan anahtar, kaç yer kaydırma yapılacağını belirler. Bu anahtar genellikle bir sayıdır.
