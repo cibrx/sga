@@ -16,7 +16,10 @@
 - Güncel Yazılımlar:
   Ağ sistemimizde kullandığımız yazılımların güncel tutulması, açıklar ve zaafiyetler açısından bizi korumalı tutacaktır.
 - Erişim Kontrolü ve Kullanıcı Yönetimi:
-  Gereksiz yetkilendirmeleri önlemek ve kullanıcıların kontrolünü sıklıkla gerçekleştirmek, ağımızın güvenliğinde önemli rol oynar.    
+  Gereksiz yetkilendirmeleri önlemek ve kullanıcıların kontrolünü sıklıkla gerçekleştirmek, ağımızın güvenliğinde önemli rol oynar.
+- Hostname domainname gibi degerlerin değiştirlmesi.
+  SSH gibi servisler secret keyler olusturuken bu degerleri referans alır.
+     
 ### Ağın güvenliğini sağlamak için hangi cihazlar kullanılmalıdır?
 <super>Ağ güvenliğinin sağlanması için çeşitli cihazların kullanılması tavsiye edilir:</super>
 - Firewall: Ağ trafiğini kontrol eder.
