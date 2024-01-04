@@ -35,7 +35,7 @@
 - Authentication Servers: Kullanıcı kimlik doğrulama süreçlerini yönetir.
 - NAC (Network Access Control) Cihazları: Ağ erişimini kontrol eder.
 
-### Ağ cihazlarının fiziksel güvenkiği nasıl sağlanır?
+### Ağ cihazlarının fiziksel güvenliği nasıl sağlanır?
 <super>Ağ güvenliğinin yazılımsal olarak güvenli tutulmasının yanında, cihazların fiziksel olarak korunması da oldukça önemlidir.</super>
 - Güvenli Konum: Ağ cihazları güvenli bir yerde, yetkisiz erişimden uzakta bulunmalıdır.
 - Erişim Kontrolleri: Kapılar, kilitler ve erişim kontrol sistemleri kullanarak sadece yetkili kişilerin girebilmesini sağlayın.
@@ -43,7 +43,7 @@
 - Çevresel Kontroller: Sıcaklık, nem gibi çevresel faktörleri izleyerek cihazları koruyun.
 - Kilitli Kabinetler: Ağ ekipmanlarını kilitli kabinetler içinde saklayarak fiziksel erişimi sınırlayın.
 - Eğitim ve Bilgilendirme: Personeli güvenlik prosedürleri konusunda eğitin ve bilgilendirin.
-### Sezar Şifreleme nasil çalışır bir örnek veriniz 
+### Sezar Şifreleme Nedir?
 > Sezar şifrelemesi, basit bir şifreleme yöntemidir ve adını Roma İmparatoru Sezar'dan almıştır. Temel çalışma prensibi, bir metni belirli bir sayıda yer değiştirme ile şifrelemektir.
 <super>Sezar şifrelemesinin temel çalışma adımları:</super>
 - Anahtar Belirleme:
@@ -65,12 +65,12 @@
 
 <strong>Şifrelenmiş metin: "KHOOB"</strong>
 
-### SSH yapılandirilmasinda bulunan key üretme işleminde hangi tür algoritma kullanilir?
+### SSH Yapılandırılmasında key oluşturulurken hangi algoritma kullanılır?
 > SSH, kullanıcıların sunucularını veya cihazlarını internet üzerinden kontrol etmelerine olanak sağlayan bir protokoldür. SSH bağlantılarında güvenliği sağlayan bir şifreleme tekniği bulunur. Bu şifreleme *RSA* algoritması kullanılarak gerçekleştirilir.
 
 
 RSA, yaygın olarak kullanılan bir asimetrik şifreleme algoritmasıdır. Bu algoritmada biri açık diğeri ise özel olmak üzere 2 anahtar bulunur ve şifrelemelerde bunlardan yararlanılır.
-### Hashleme ile Şifrleme arasidaki fark nedir?
+### Hash ve Şifreleme arasındaki farklar nedir?
 > Şifreleme ve hashleme arasındaki ana fark, birinin geri döndürülebilir olması, diğerinin ise gerçekleştirildikten sonra geri alınamamasıdır.
 
 
