@@ -1,4 +1,4 @@
-# SGA
+# SGA - Sözel Kısmı
 
 ### Ağ cihazlarının sıkılaştırılması nedir?
 > Ağ cihazlarının sıkılaştırılması, potansiyel problemlerin ve zaafiyetlerin ortaya çıkmasını hedefleyerek güvenlik risklerinin ortadan kaldırılması aşamasıdır.<br>
