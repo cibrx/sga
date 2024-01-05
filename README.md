@@ -146,3 +146,6 @@ Router(config)#banner motd #Your_banner# <br>
 > transport input ssh
 ### Hiçbir uzaktan bağlantıya izin verme
 > transport input none
+
+### TFTP Config Yedekleme
+> copy running-config <tftp-sunucu-ip>
