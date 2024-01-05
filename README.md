@@ -148,4 +148,13 @@ Router(config)#banner motd #Your_banner# <br>
 > transport input none
 
 ### TFTP Config Yedekleme
-> copy running-config <tftp-sunucu-ip>
+> copy running-config [tftp-sunucu-ip]
+
+### Set Router’s hostname
+> Router(config)#hostname myRouter
+
+### Set domain name
+> myRouter(config)#ip domain name admin
+
+### SSH max kullanici sayisi
+> line vty 0 <kullanıcısayısı-1>
