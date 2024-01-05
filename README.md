@@ -144,3 +144,5 @@ Router(config)#banner motd #Your_banner# <br>
 
 ### SSH kullanma
 > transport input ssh
+### Hiçbir uzaktan bağlantıya izin verme
+> transport input none
