@@ -140,3 +140,7 @@ Router(config)#banner motd #Your_banner# <br>
 
 ### SSH version 2 
 > Router(config)#ip ssh version 2
+
+
+### SSH kullanma
+> transport input ssh
